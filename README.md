@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hasderhi aka *Tobias Kisling* or *tk_dev*
 - 👀 I’m interested in development of all kinds, especially Python and JavaScript
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on everything that's interesting
 - 📫 How to reach me: hasederhi.12@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: always looses in rock paper scissors
