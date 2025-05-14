@@ -2,7 +2,7 @@
 - 👀 I’m interested in development of all kinds, especially Python and JavaScript
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on everything that's interesting
-- 📫 How to reach me: hasederhi.12@gmail.com
+- 📫 How to reach me: [My website ](https://hasderhi.dev/contact.html)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: always looses in rock paper scissors
 
