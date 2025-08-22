@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on everything that's interesting
 - 📫 How to reach me: [My website ](https://hasderhi.dev/contact.html)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: always looses in rock paper scissors
 
 <!---
