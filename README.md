@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasderhi aka *Tobias Kisling* or *tk_dev*
+- 👋 Hi, I’m @hasderhi aka *Tobi Kisling* or *tk_dev*
 - 👀 I’m interested in development of all kinds, especially Python and JavaScript
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on everything that's interesting
