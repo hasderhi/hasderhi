@@ -2,8 +2,8 @@
 - 👀 I’m interested in development of all kinds, especially Python and JavaScript
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on everything that's interesting
-- 📫 How to reach me: [My website ](https://hasderhi.dev/contact.html)
-- 😄 Pronouns: she/her - they/them
+- 📫 How to reach me: [via my website](https://tk-dev-software.com#contact) or [via E-Mail](mailto:annabeth@tk-dev-software.com)
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: always looses in rock paper scissors
 
 <!---
