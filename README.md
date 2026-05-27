@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on everything that's interesting
 - 📫 How to reach me: [via my website](https://tk-dev-software.com#contact) or [via E-Mail](mailto:annabeth@tk-dev-software.com)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: always looses in rock paper scissors
+- ⚡ Fun fact: always loses in rock paper scissors
 
 <!---
 hasderhi/hasderhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
