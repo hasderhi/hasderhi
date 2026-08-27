@@ -42,4 +42,6 @@ Always something new — currently exploring more about C++, game development, a
 
 I still lose at rock paper scissors way more often than statistically reasonable.
 
+## 
+
 <img width="526" height="197" alt="logo_dark" src="https://github.com/user-attachments/assets/1d4f0471-a738-475b-b002-902c4c099a47" />
