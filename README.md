@@ -15,28 +15,12 @@ I enjoy working across different areas of software development, including:
 
 I'm also interested in game development, networking, self-hosting, and experimenting with new technologies.
 
-## Projects
-
-Some of my projects:
-
-- **annaScript** — a custom markup language and ecosystem
-- **annaScript Studio** — an editor and development environment for annaScript
-- **LANFileShare** — a simple local network file sharing solution
-- **HTML Editor** — tools for creating and editing web content
-- **Wiener Linien API projects** — experiments and tools using public transport data
-
-You can find more projects on my repositories and on my website.
-
 ## Contact
 
 Website: https://tk-dev-software.com  
 Email: annabeth@tk-dev-software.com
 
 Please note that support and responses may currently take longer due to my final school year.
-
-## Currently learning
-
-Always something new — currently exploring more about C++, game development, and improving my existing projects.
 
 ## Fun fact
 
