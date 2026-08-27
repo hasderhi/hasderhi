@@ -1,5 +1,7 @@
 # Hi, I'm Annabeth!
 
+<img width="526" height="197" alt="logo_dark" src="https://github.com/user-attachments/assets/1d4f0471-a738-475b-b002-902c4c099a47" />
+
 I'm a software developer behind **tk_dev**. I build software with a focus on creating useful, well-designed tools and learning new technologies along the way.
 
 Currently, I'm focused on my final year of school and preparing for my Matura. Because of this, my development activity and support availability may be reduced for a while.
